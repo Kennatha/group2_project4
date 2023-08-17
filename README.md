@@ -5,3 +5,4 @@ In this model, we will predict and analyze consumer spending scores based on a s
 # Visualizations
 
 (Data source: https://www.kaggle.com/datasets/datascientistanna/customers-dataset/code?select=Customers.csv)
+https://docs.google.com/presentation/d/1VRhXu2l8y4c-UO-Z5cN2D-Y2SsUhzAvXH-6RYhgWPY8/edit?usp=sharing
